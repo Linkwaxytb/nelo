@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Inception",
+        "title": "Inception",
         "description": "A mind-bending thriller by Christopher Nolan.",
         "image": "https://example.com/inception.jpg",
         "url": "https://example.com/inception"

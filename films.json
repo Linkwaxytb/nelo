@@ -1,9 +1,14 @@
 [
     {
-  "id": 14445545494445,
-  "title": "Inception",
-  "description": "A mind-bending thriller by Christopher Nolan.",
-  "image": "https://example.com/inception.jpg",
-  "url": "https://example.com/inception"
-}
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "year": 2010,
+        "genre": "Sci-Fi"
+    },
+    {
+        "title": "The Matrix",
+        "director": "The Wachowskis",
+        "year": 1999,
+        "genre": "Action"
+    }
 ]
